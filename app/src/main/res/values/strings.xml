@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SmartWaste Hub</string>
+    <string name="logo_description">SmartWaste Hub Logo</string>
+
+    <!-- Add marital status array -->
+    <string-array name="marital_status_array">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Divorced</item>
+        <item>Widowed</item>
+    </string-array>
+</resources>
